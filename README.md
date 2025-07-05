@@ -50,7 +50,10 @@ Sequential([
 - Matplotlib (for visualization)
 
 ## Sample Input 
-![Sample Prediction](sample_input.png) ![Sample Prediction](sample_keypoints.png)
+<p float="left">
+  <img src="sample_input.png" width="45%">
+  <img src="sample_keypoints.png" width="45%">
+</p>
 
 ## Sample Output
 ![Sample Prediction](sample_output.png)
